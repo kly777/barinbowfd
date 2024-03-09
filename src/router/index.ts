@@ -26,7 +26,7 @@ const routes = [
     path: '/card',
     name: 'cardself',
     component: () => import('../views/CardItself.vue')
-  }
+  },
 
 ]
 

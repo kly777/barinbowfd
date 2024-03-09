@@ -5,6 +5,7 @@
     <router-link to="/cardlist">cardlist</router-link>
   </nav>
   <router-view />
+  <div></div>
 </template>
 
 <style></style>
